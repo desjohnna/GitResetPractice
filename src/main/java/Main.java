@@ -3,5 +3,7 @@ public class Main {
         System.out.println("First Commit");
 
         System.out.println("2nd commit");
+
+        System.out.println("3rd commit");
     }
 }
